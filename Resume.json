@@ -10,9 +10,9 @@
 		"location": {
 			"address": "lb shastri nagar sewar bharatpur",
 			"postalCode": "---",
-			"city": "---",
+			"city": "bharatpur",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "rajasthan"
 		},
 		"profiles": [{
 				"network": "Twitter",
@@ -22,7 +22,7 @@
 			{
 				"network": "Github",
 				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"url": "https://github.com/hawkeye41"
 			},
 			{
 				"network": "linkedin",
@@ -60,7 +60,7 @@
 		"studyType": "Bachelor (hons)",
 		"startDate": "2018-04-08 //Date",
 		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"gpa": "6.99",
 		"courses": [
 			"Computer Science & Engineering"
 		]
@@ -77,11 +77,11 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "NEXT js","NODE"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
+		"keywords": ["cricket", "football","badminton"]
 	}],
 	"references": []
 }
